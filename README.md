@@ -14,6 +14,3 @@
   ##
 </div>
   
-  <div>
-     ![Snake animation](https://github.com/Anypt/Anypt/edit/main/README.md)
-  </div>
