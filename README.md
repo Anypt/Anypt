@@ -15,5 +15,5 @@
 </div>
   
   <div>
-     ![Snake animation](https://github.com/Anypt/Anypt/blob/output/github-contribution-grid-snake.svg)
+     ![Snake animation](https://github.com/Anypt/Anypt/edit/main/README.md)
   </div>
